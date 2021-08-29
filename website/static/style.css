@@ -1,0 +1,8 @@
+.alert {
+    max-width: 400px;
+    left: auto;
+    right: 10px;
+    top: 30px;
+    overflow-wrap: normal;
+    min-width: 40%;
+}
